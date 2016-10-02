@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  	{ "type": "Feature",
+  	  "geometry": {
+  	  	"type": "Point",
+  	  	"coordinates": [-71.305411, 42.290875]
+  	  },
+  	  "properties": {
+  	  	"name": "Schneider",
+  	  	"id": 1,
+  	  	"loc": "Billings front door",
+  	  	"timeEarly": ["06", "00", "PM"],
+  	  	"timeLate": ["01", "30", "AM"],
+  	  	"picture": ""
+  	  }
+  	},   
+  	{ "type": "Feature",
+  	  "geometry": {
+  	  	"type": "Point",
+  	  	"coordinates": [-71.302990, 42.291389]
+  	  },
+  	  "properties": {
+  	  	"name": "Stone-Davis",
+  	  	"id": 2,
+  	  	"loc": "front door",
+  	  	"timeEarly": ["06", "01", "PM"],
+  	  	"timeLate": ["01", "31", "AM"],
+  	  	"picture": ""
+  	  }
+  	},
+  	{ "type": "Feature",
+  	  "geometry": {
+  	  	"type": "Point",
+  	  	"coordinates": [-71.300121, 42.292122]
+  	  },
+  	  "properties": {
+  	  	"name": "Bates/McAfee",
+  	  	"id": 3,
+  	  	"loc": "front door",
+  	  	"timeEarly": ["06", "03", "PM"],
+  	  	"timeLate": ["01", "33", "AM"],
+  	  	"picture": "./images/Bates-McAfee Stop.png"
+  	  }
+  	},
+  	{ "type": "Feature",
+  	  "geometry": {
+  	  	"type": "Point",
+  	  	"coordinates": [-71.302712, 42.294155]
+  	  },
+  	  "properties": {
+  	  	"name": "Science Center",
+  	  	"id": 4,
+  	  	"loc": "Sage Lounge door",
+  	  	"timeEarly": ["06", "05", "PM"],
+  	  	"timeLate": ["01", "35", "AM"],
+  	  	"picture": "./images/Science Center Stop.png"
+  	  }
+  	},
+  	{ "type": "Feature",
+  	  "geometry": {
+  	  	"type": "Point",
+  	  	"coordinates": [-71.305032, 42.293120]
+  	  },
+  	  "properties": {
+  	  	"name": "Pendleton/GRM",
+  	  	"id": 5,
+  	  	"loc": "between PND and FND arch",
+  	  	"timeEarly": ["06", "08", "PM"],
+  	  	"timeLate": ["01", "38", "AM"],
+  	  	"picture": ""
+  	  }
+  	},
+  	{ "type": "Feature",
+  	  "geometry": {
+  	  	"type": "Point",
+  	  	"coordinates": [-71.309295, 42.292639]
+  	  },
+  	  "properties": {
+  	  	"name": "Tower Complex",
+  	  	"id": 6,
+  	  	"loc": "Roadway by Tower West door",
+  	  	"timeEarly": ["06", "09", "PM"],
+  	  	"timeLate": ["01", "39", "AM"],
+  	  	"picture": ""
+  	  }
+  	},
+  	{ "type": "Feature",
+  	  "geometry": {
+  	  	"type": "Point",
+  	  	"coordinates": [-71.307681, 42.293392]
+  	  },
+  	  "properties": {
+  	  	"name": "Davis Plaza",
+  	  	"id": 7,
+  	  	"loc": "road toward Shakes house",
+  	  	"timeEarly": ["06", "10", "PM"],
+  	  	"timeLate": ["01", "40", "AM"],
+  	  	"picture": ""
+  	  }
+  	},	
+  	{ "type": "Feature",
+  	  "geometry": {
+  	  	"type": "Point",
+  	  	"coordinates": [-71.309933, 42.294858]
+  	  },
+  	  "properties": {
+  	  	"name": "Alumnae Hall/Campus Center",
+  	  	"id": 8,
+  	  	"loc": "Circle in front of Alumnae Hall",
+  	  	"timeEarly": ["06", "12", "PM"],
+  	  	"timeLate": ["01", "42", "AM"],
+		"picture": "./images/Alumnae Stop.png"  	  	
+  	  }
+  	},
+  	{ "type": "Feature",
+  	  "geometry": {
+  	  	"type": "Point",
+  	  	"coordinates": [-71.313303, 42.295184]
+  	  },
+  	  "properties": {
+  	  	"name": "DC Lot",
+  	  	"id": 9,
+  	  	"loc": "Lots #1, #2, #3 in that order",
+  	  	"timeEarly": ["06", "15", "PM"],
+  	  	"timeLate": ["01", "45", "AM"],
+  	  	"picture": ""
+  	  }
+  	},  	
+  	{ "type": "Feature",
+  	  "geometry": {
+  	  	"type": "Point",
+  	  	"coordinates": [-71.307912, 42.295445]
+  	  },
+  	  "properties": {
+  	  	"name": "Quad",
+  	  	"id": 10,
+  	  	"loc": "Rt. 135 Entrance to Quad",
+  	  	"timeEarly": ["06", "16", "PM"],
+  	  	"timeLate": ["01", "48", "AM"],
+  	  	"picture": ""
+  	  }
+  	},  
+  	{ "type": "Feature",
+  	  "geometry": {
+  	  	"type": "Point",
+  	  	"coordinates": [-71.306419, 42.295716]
+  	  },
+  	  "properties": {
+  	  	"name": "Munger",
+  	  	"id": 11,
+  	  	"loc": "Rt. 135 door",
+  	  	"timeEarly": ["06", "19", "PM"],
+  	  	"timeLate": ["01", "49", "AM"],
+  	  	"picture": ""
+  	  }
+  	},
+  	{ "type": "Feature",
+  	  "geometry": {
+  	  	"type": "Point",
+  	  	"coordinates": [-71.299510, 42.294995]
+  	  },
+  	  "properties": {
+  	  	"name": "Page School (Child Study Center)",
+  	  	"id": 12,
+  	  	"loc": "parking lot",
+  	  	"timeEarly": ["06", "20", "PM"],
+  	  	"timeLate": ["01", "50", "AM"],
+  	  	"picture": ""
+  	  }
+  	},  
+  	{ "type": "Feature",
+  	  "geometry": {
+  	  	"type": "Point",
+  	  	"coordinates": [-71.302130, 42.290594]
+  	  },
+  	  "properties": {
+  	  	"name": "Cedar Lodge",
+  	  	"id": 13,
+  	  	"loc": "front door",
+  	  	"timeEarly": ["06", "22", "PM"],
+  	  	"timeLate": ["01", "52", "AM"],
+  	  	"picture": ""
+  	  }
+  	},
+  	{ "type": "Feature",
+  	  "geometry": {
+  	  	"type": "Point",
+  	  	"coordinates": [-71.297213, 42.288040]
+  	  },
+  	  "properties": {
+  	  	"name": "French House",
+  	  	"id": 14,
+  	  	"loc": "front door",
+  	  	"timeEarly": ["06", "23", "PM"],
+  	  	"timeLate": ["01", "53", "AM"],
+  	  	"picture": ""
+  	  }
+  	},
+  	{ "type": "Feature",
+  	  "geometry": {
+  	  	"type": "Point",
+  	  	"coordinates": [-71.301732, 42.290969]
+  	  },
+  	  "properties": {
+  	  	"name": "Dower",
+  	  	"id": 15,
+  	  	"loc": "front door",
+  	  	"timeEarly": ["06", "25", "PM"],
+  	  	"timeLate": ["01", "55", "AM"],
+  	  	"picture": ""
+  	  }
+  	} 	
+  ]
+}

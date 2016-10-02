@@ -1,0 +1,47 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; 
+  }
+
+html, body {
+    font-family: avenir;
+    margin: 0;
+    padding: 0;
+    background-image: url("/images/vanupdated.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+a {
+	text-decoration: none;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+#map-button {
+	position: absolute; 
+    border: 2px solid #126180;
+    border-radius: 10px;
+    padding: 3px;
+    background: #fff;
+    color: #126180;
+	top: 90%;
+  	left: 40%;
+}
+
+#map-button:hover {
+	cursor: pointer;
+	border: 2px solid #fff;
+	background: #126180;
+	color: #fff;
+}

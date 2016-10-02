@@ -1,0 +1,114 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; 
+  }
+
+html, body {
+    font-family: avenir;
+    margin: 0;
+    padding: 0;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#info-button {
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #126180;
+    font-size: 20px;
+    background: #fff;
+    z-index: 100;
+}
+
+#map {
+    position: absolute;
+    width: 940px;
+    height: 679px;
+}
+
+#userInput {
+    position: absolute;
+    margin-left: 950px;
+    max-width: 320px;
+    max-height: 679px;
+    overflow-y: hidden;
+    font-size: 14px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.pic {
+    margin: 20px 0px;
+    padding: 5px 0px;
+    border-radius: 3px 3px 3px 3px;
+}
+
+#display {
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+#info {
+    text-align: center;
+    margin: 90px auto 0 auto;
+    font-size: 15px;
+}
+
+#twilio-button {
+    margin: 10px 30px;
+    border: 2px solid #126180;
+    background: #126180;
+    color: #fff;
+    border-radius: 10px 10px;
+    padding: 2px;
+    font-size: 14px;
+}
+
+#twilio-button:hover {
+    cursor: pointer;
+    border: 2px solid #126180;
+    background: #fff;
+    color: #126180;
+}
+
+#schedule {
+    width: 320px;
+    text-align: left;
+    vertical-align: middle;
+    margin: 90px auto 0 auto;
+    border-spacing: 0;
+}
+
+#schedule tr {
+    background: #fff;
+}
+
+#schedule th {
+    padding: 3px;
+    font-size: 15px;
+}
+
+#schedule td {
+    padding: 2px;
+    font-size: 13px;
+}
+
+#schedule tr:hover {
+    background-color: #eee;
+}
